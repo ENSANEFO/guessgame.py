@@ -1,4 +1,4 @@
-# guessgame.py
+# guessnumber.py
 A basic guessing game python
 ## How to Run
 
